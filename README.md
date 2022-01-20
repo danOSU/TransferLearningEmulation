@@ -1,4 +1,4 @@
-# transfer_learning
+# Transfer Learning Emulation
 Computationally efficient way to build Gaussian Process emulators by transferring knowledge from the already existing emulators, for similar simulations when building new emulators for new simulation models. 
 
 A simple example and a video presentation of how this work with the code can be found [here](https://github.com/danOSU/Isnet_2021_TL.git).
